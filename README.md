@@ -1,28 +1,28 @@
-## Projects
+## Business Data Analysis Projects 
 Welcome to my portfolio. Here, you’ll find my work in business analytics and business intelligence, showcasing my skills in data analysis, visualization, and machine learning.
 
-#### 1. Sales Performance Dashboard
+#### Sales Performance Dashboard
 **Objective**: Track monthly sales performance.  
 **Tools**: Excel, Power BI.  
 **Description**: Created an interactive dashboard to visualize sales trends and key performance indicators (KPIs).
 
 [View Project](#)
 
-#### 2. Customer Segmentation Analysis
+#### Customer Segmentation Analysis
 **Objective**: Segment customers based on purchase behavior.  
 **Tools**: Excel, Python (pandas).  
 **Description**: Used clustering analysis to identify and visualize distinct customer segments.
 
 [View Project](#)
 
-#### 3. Churn Prediction
+#### Churn Prediction
 **Objective**: Predict customer churn using historical data.  
 **Tools**: Python (scikit-learn), Tableau.  
 **Description**: Developed a machine learning model to predict churn and visualized key predictors.
 
 [View Project](#)
 
-#### 4. Financial Performance Analysis
+#### Financial Performance Analysis
 **Objective**: Analyze financial statements to assess company performance.  
 **Tools**: Excel, SQL.  
 **Description**: Conducted financial analysis using ratios and trend analysis, presented in interactive reports.
@@ -30,35 +30,28 @@ Welcome to my portfolio. Here, you’ll find my work in business analytics and b
 [View Project](#)
 
 
-#### 5. Supply Chain Optimization
+#### Supply Chain Optimization
 **Objective**: Optimize supply chain processes to reduce costs.  
 **Tools**: Python (optimization libraries), Power BI.  
 **Description**: Implemented optimization techniques to identify cost-saving opportunities in supply chain operations.
 
 [View Project](#)
 
-#### 6. Market Basket Analysis
+#### Market Basket Analysis
 **Objective**: Identify product bundling opportunities using association rules.  
 **Tools**: R, Tableau.  
 **Description**: Analyzed transaction data to uncover frequent itemsets and potential product bundles.
 
 [View Project](#)
 
-#### 7. Predictive Maintenance for Manufacturing
+#### Predictive Maintenance for Manufacturing
 **Objective**: Use sensor data to predict machine failures.  
 **Tools**: Python (time series analysis), Power BI.  
 **Description**: Developed predictive models for maintenance scheduling and visualized machine health metrics.
 
 [View Project](#)
 
-#### 8. Smart City Traffic Management
-**Objective**: Analyze and optimize traffic flow in a smart city.  
-**Tools**: Python (GIS libraries), Tableau.  
-**Description**: Conducted geospatial analysis to improve traffic management and reduce congestion.
-
-[View Project](#)
-
-#### 9. Healthcare Analytics for Disease Outbreak Prediction
+#### Healthcare Analytics for Disease Outbreak Prediction
 **Objective**: Predict disease outbreaks using historical and environmental data.  
 **Tools**: Python (machine learning libraries), Power BI.  
 **Description**: Built predictive models to forecast disease outbreaks and visualized critical trends.
